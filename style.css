@@ -1,0 +1,23 @@
+ 
+
+h1,h2{
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+}
+
+main p{
+    line-height: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+main>p{
+    color: rgb(141, 25, 177);
+}
+
+form input{
+    display: block;
+    padding: 15px;
+    margin: 0 auto;
+}
